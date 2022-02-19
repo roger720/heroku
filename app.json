@@ -1,6 +1,5 @@
 {
-  "name": "libDrive",
-  "description": "libDrive is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.",
+  "name": "Keshav Chauhan",
   "keywords": [
     "heroku",
     "movies",
@@ -19,7 +18,7 @@
   ],
   "website": "https://github.com/libDrive/libDrive",
   "repository": "https://github.com/libDrive/libDrive",
-  "logo": "https://avatars2.githubusercontent.com/u/75073550?v=4",
+  "logo": "https://www.crushpixel.com/big-static19/preview4/initial-kc-letter-logo-with-3753862.jpg",
   "success_url": "/",
   "env": {
     "LIBDRIVE_CLOUD": {
